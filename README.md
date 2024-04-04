@@ -1,4 +1,5 @@
-This is a Pokedex App
+# This is a Pokedex App
+
 
 |  Home  |  Detail  |
 |  ----  |  ------  |
