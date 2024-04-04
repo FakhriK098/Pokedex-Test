@@ -1,5 +1,14 @@
 This is a Pokedex App
 
+|  Home  |  Detail  |
+|  ----  |  ------  |
+|  ![image](https://github.com/FakhriK098/Pokedex-Test/assets/71368358/b35cd365-ec5c-451d-9d73-4269019af06c)  |  ![image](https://github.com/FakhriK098/Pokedex-Test/assets/71368358/2fbc68a8-fd53-437d-b268-559811160029)  |
+
+
+
+
+
+
 # How to debug
 
 ## Step 1: Start the Metro Server
